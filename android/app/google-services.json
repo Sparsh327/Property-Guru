@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116334330522",
+    "project_id": "property-guru-924ba",
+    "storage_bucket": "property-guru-924ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116334330522:android:50ca842130bacf73791523",
+        "android_client_info": {
+          "package_name": "com.example.property_guru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116334330522-kr3c3v6h4anneooudr2i8lvtqsb8gann.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLQ_4gLMqE93sHKT4g7KAZdmCpRqLEqBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116334330522-kr3c3v6h4anneooudr2i8lvtqsb8gann.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
